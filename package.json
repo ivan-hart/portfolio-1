@@ -1,0 +1,23 @@
+{
+  "name": "ivan-hart.github.io",
+  "version": "1.0.0",
+  "description": "server for my personal portfolio",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-hart/ivan-hart.github.io.git"
+  },
+  "author": "Ivan Hart",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ivan-hart/ivan-hart.github.io/issues"
+  },
+  "homepage": "https://github.com/ivan-hart/ivan-hart.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
